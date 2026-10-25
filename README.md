@@ -53,6 +53,7 @@ Animate still images into video clips.
 | **Pika (Image Animate)** | Quick animation with style control | [pika.art](https://pika.art) |
 | **Kling Image-to-Video** | Long clip generation from single image | [klingai.com](https://klingai.com) |
 | **DomoAI** | Stylized animation from reference images | [domoai.app](https://domoai.app) |
+| **AI Dance Generator** | Turn one photo of a person or pet into a 9:16 AI dance video; pay per video, no subscription | [danceaigenerator.com](https://danceaigenerator.com/?utm_source=github&utm_medium=referral&utm_campaign=launch) |
 
 ### Avatar & Talking Head
 
